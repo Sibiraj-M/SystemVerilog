@@ -5,8 +5,8 @@ module multi_packed_array;
     foreach(arr[i,j,k]) begin
       $display("arr[%0d][%0d][%0d]=%b",i,j,k,arr[i][j][k]);
     end
-                end
-                endmodule
+ end
+endmodule
 
 /* OUTPUT:
 # run -all
