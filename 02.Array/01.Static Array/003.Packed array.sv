@@ -8,6 +8,7 @@ module packed_array_single;
   end
 endmodule
 
+
 /*OUTPUT:
 Arr[7]=1
 Arr[6]=1
