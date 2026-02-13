@@ -30,4 +30,3 @@ value:'{48, -99, -39, -9, 57}
 XOR     :-70
 xmsim: *W,RNQUIE: Simulation is complete.
 */
-    
