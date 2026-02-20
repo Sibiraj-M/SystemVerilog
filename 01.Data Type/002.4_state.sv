@@ -20,7 +20,6 @@ module four_state;
   end
 endmodule
 
-
 /* OUTPUT
 reg   a=1
 logic c=0
